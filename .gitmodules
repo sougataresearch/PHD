@@ -1,0 +1,12 @@
+[submodule "IMMSE"]
+	path = IMMSE
+	url = https://github.com/sougataresearch/IMMSE.git
+[submodule "gsa_uncertainty_analysis"]
+	path = gsa_uncertainty_analysis
+	url = https://github.com/sougataresearch/Sensitivity_Analysis.git
+[submodule "micro_ellipsometry"]
+	path = micro_ellipsometry
+	url = https://github.com/sougataresearch/micro_ellipsometry.git
+[submodule "OCD-LIBRARY"]
+	path = OCD-LIBRARY
+	url = https://github.com/sougataresearch/OCD-LIBRARY.git
