@@ -10,3 +10,9 @@
 [submodule "OCD-LIBRARY"]
 	path = OCD-LIBRARY
 	url = https://github.com/sougataresearch/OCD-LIBRARY.git
+[submodule "Mueller-Algebra"]
+	path = Mueller-Algebra
+	url = https://github.com/sougataresearch/Mueller-Algebra.git
+[submodule "MOTORIZED"]
+	path = MOTORIZED
+	url = https://github.com/sougataresearch/MOTORIZED.git

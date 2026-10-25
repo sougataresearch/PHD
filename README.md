@@ -9,7 +9,10 @@ pushed anywhere).
 - `gsa_uncertainty_analysis` — https://github.com/sougataresearch/Sensitivity_Analysis.git
 - `micro_ellipsometry` — https://github.com/sougataresearch/micro_ellipsometry.git
 - `OCD-LIBRARY` — https://github.com/sougataresearch/OCD-LIBRARY.git
+- `Mueller-Algebra` — https://github.com/sougataresearch/Mueller-Algebra.git
+- `MOTORIZED` — https://github.com/sougataresearch/MOTORIZED.git
 - `IMMSE_SIMU` — local only, no remote yet
+- `Zemax-Python-Link` — local only, no remote yet
 
 ## Working with submodules
 
